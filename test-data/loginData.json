@@ -1,0 +1,11 @@
+
+{
+  "validUser": {
+    "email": "admin@practicesoftwaretesting.com",
+    "password": "welcome01"
+  },
+  "invalidUser": {
+    "email": "invalid@example.com",
+    "password": "wrongPassword123"
+  }
+}
